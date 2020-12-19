@@ -28,4 +28,4 @@ Tasarlayan: **Yusuf Melih Yuvacı**
 
 # Kullanılan Yöntemler
 
- 1. Tasarım sistemleri
+ 1. Sunuculu Sistemler
